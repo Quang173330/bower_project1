@@ -1,0 +1,17 @@
+{
+    "name": "demo-bower",
+    "version": "1.0.1",
+    "authors": [
+      "Lê Xuân Quang <quang.lxun@gmail.com>"
+    ],
+    "description": "Bower Project1",
+    "main": "/",
+    "keywords": [
+      "polaris"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/Quang173330/bower_project1.git",
+    "ignore": [
+      "README.md"
+    ]
+  }
